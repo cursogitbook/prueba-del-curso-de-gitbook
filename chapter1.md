@@ -48,3 +48,5 @@ This is [an example][campus] reference-style link.
 ```
 Esto es un código
 ```
+
+$$x=\frac{1+y}{1+2z^2}$$
